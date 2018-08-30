@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 	"time"
-	"src/goroutine/runner"
+	"goroutine/runner"
 )
 
 // timeout is the number of second the program has to finish.
